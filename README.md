@@ -1,1 +1,2 @@
 # InternIntelligence_UserLoginFunctionality
+This project involves building a secure, scalable backend for user login and logout functionalities. It emphasizes robust authentication, error handling, and secure database interactions, aligning with industry best practices for input validation, rate limiting, and HTTPS enforcement. The modular structure ensures maintainability and seamless integration with the frontend.
